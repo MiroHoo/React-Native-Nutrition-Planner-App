@@ -3,6 +3,12 @@ We created a react native app for planning nutrition. The commits and more detai
 
 # Main Functionality. 
 
+## Main Feed.
+
+The first page of the mobile app is the main feed which shows you random recepies and foods around the world.
+
+![](/ReadMeAssets/MainFeed.png)
+
 ## Recepie Builder. 
 The app allowed users to create recepies using a builder UI. After the recepie and it's ingredients have been filled out the app uses an external API to fetch nutrition data of each of the ingredients giving a prediction of the nutritional contents of the recipe.
 
