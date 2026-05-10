@@ -1,5 +1,5 @@
 # React Native Nutrition Project. 
-We created a react native app for planning nutrition. The commits and more details can be seen in the project that I forked from my student account.
+We created a react native app for planning nutrition. The commits and more details can be seen in the project that I forked from my student account. The project was done in an Agile Team of 4 during 2 months while doing other course work learning React Native and Kotlin development.
 
 # Main Functionality. 
 
